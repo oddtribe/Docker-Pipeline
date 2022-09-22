@@ -1,2 +1,2 @@
 # Docker-Pipeline
-Just a basic HelloWorld js app for to be used for Jenkins
+Just a basic HelloWorld dockerweb app 
